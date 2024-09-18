@@ -142,3 +142,9 @@ position: relative;
     gap: 62px;
    margin-bottom: 10px;
 }
+.mt-subtext{
+    color:#656565;
+}
+.mt-subtext span {
+    font-weight: bold;
+}
